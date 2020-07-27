@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+       
+        
+    <TextView
+        android:text="ID:  "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+            
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_UpdateID"
+        android:inputType="textEmailAddress"/> 
+     <Button
+       android:text="Get"
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btngetID"/>
+ 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_UpdateFullName"
+        android:inputType="text"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_UpdatePhone"
+        android:inputType="phone"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_UpdateEmail"
+        android:inputType="textEmailAddress"/>
+    
+    <Button
+       android:text="Update"
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnUpdate"/>
+
+</LinearLayout>
