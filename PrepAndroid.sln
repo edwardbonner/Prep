@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepAndroid", "PrepAndroid.csproj", "{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D8B7ED-CD6F-4720-A0C3-53E673AD3C0C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53455149-0D92-46C2-ABEA-29AD607F627A}
+	EndGlobalSection
+EndGlobal
